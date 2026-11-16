@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./Lab_13_JuanMachaca
+        working-directory: ./Lab_14_Actividad_Github
 
     steps:
     - name: Check out code
